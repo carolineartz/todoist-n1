@@ -1,0 +1,22 @@
+{
+  "name": "todoistn1",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "nylas": ">=0.4.49"
+  },
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  },
+  "description": "Todoist integration in Nylas N1",
+  "dependencies": {
+    "superagent": "^2.0.0",
+    "store2": "^2.3"
+  },
+  "license": "MIT"
+}

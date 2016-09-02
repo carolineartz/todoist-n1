@@ -1,0 +1,5 @@
+{
+    "redirect_uri": "https://foo.bar",
+    "client_id": "x",
+    "client_secret": "y"
+}
